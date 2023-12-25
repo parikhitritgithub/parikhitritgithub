@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
 **parikhitritgithub/parikhitritgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 👨‍🎓I'm currently  pursuing Bachelor of technology (CSE) @ AKU 🏫
 💁Learning has no limits , 🙋 so I always try to learn new thing
 🙇I'm currently learning  Data structures and algorithms , web development and open-source 
 🙆I'm looking to collaborate on web-development projects
-🪧To reach me :
--->
+🪧To reach me : 
 
 #  About Me:
 <br>I am currently enrolled in the Bachelor of Technology program in Computer Science and Engineering at Assam Kaziranga University. My passion lies in coding, gaming, and continually enhancing my skill set in programming. Presently in my fourth semester, I am focused on refining my abilities and undertaking new projects within the realm of software development. Proficient in Data Structures and Algorithms (DSA), I actively engage in problem-solving within this domain.<br><br>In pursuit of expanding my experience, I am seeking collaboration opportunities in web development projects. If given the chance, I am eager to contribute my skills and dedication to the successful execution of such endeavors.
