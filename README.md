@@ -2,10 +2,14 @@
 
 **parikhitritgithub/parikhitritgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-👨‍🎓I'm currently  pursuing Bachelor of technology (CSE) @ AKU 🏫
+👨‍🎓I'm currently  pursuing Bachelor of technology (CSE) @ AKU 🏫 
+
 💁Learning has no limits , 🙋 so I always try to learn new thing
+
 🙇I'm currently learning  Data structures and algorithms , web development and open-source 
+
 🙆I'm looking to collaborate on web-development projects
+
 🪧To reach me : 
 
 #  About Me:
