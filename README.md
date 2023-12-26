@@ -14,13 +14,12 @@
 
 - 🙆I'm looking to collaborate on web-development projects
 
-🪧To reach me : 
+🪧To reach me 
 
-#  About Me:
+## 😎About Me:
 <br>I am currently enrolled in the Bachelor of Technology program in Computer Science and Engineering at Assam Kaziranga University. My passion lies in coding, gaming, and continually enhancing my skill set in programming.I'm currently in my fourth semester, I am focused on refining my abilities and undertaking new projects within the realm of software development. Proficient in Data Structures and Algorithms (DSA), I actively engage in problem-solving within this domain.<br><br>In pursuit of expanding my experience, I am seeking collaboration opportunities in web development projects. If given the chance, I am eager to contribute my skills and dedication to the successful execution of such endeavors.
 
-
-## 🌐 Socials:
+## Connect with Me🫱🏻‍🫲🏻
 
 <p align="center">
   <a href="https://discord.gg/https://discord.com/invite/bU8juQGa">
@@ -37,7 +36,7 @@
   </a>
 </p>
 
-# 🕵️‍♂️ Tech Stack:
+## Tech Stack 🦾
 
 
 <p align="center">
@@ -56,11 +55,12 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=parikhitritgithub&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikhitritgithub&theme=radical&hide_border=false" alt="" />
+  </p>
+    <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="" />
+  </p>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=parikhitritgithub&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
