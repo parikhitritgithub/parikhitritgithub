@@ -57,13 +57,10 @@
 # 📊 GitHub Stats:
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikhitritgithub&theme=radical&hide_border=false" alt="" />
+ </p>
+   <p>
+  <img  align="right=10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="" />
+  <img align="left=10%" src="https://github-readme-stats.vercel.app/api?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="" />
   </p>
-    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="" />
-  </p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=parikhitritgithub&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=parikhitritgithub&icon=8&color=11)](https://visitcount.itsvg.in)
 
