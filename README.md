@@ -64,6 +64,10 @@
    <img src="https://visitcount.itsvg.in/api?id=parikhitritgithub&icon=8&color=11)](https://visitcount.itsvg.in" alt="" />
    
   </p>
+    <p align="center">
+       <img src="https://github-contributor-stats.vercel.app/api?username=parikhitritgithub&limit=5&theme=radical&combine_all_yearly_contributions=true" alt=""/>
+     </p>
+
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parikhitritgithub&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
