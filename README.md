@@ -50,11 +50,7 @@
 </p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parikhitritgithub&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-
-# 📊 GitHub Stats:
+## Profile Stats
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikhitritgithub&theme=radical&hide_border=false" alt="" />
  </p>
@@ -62,5 +58,10 @@
   <img  align="right=10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="" />
   <img align="left=10%" src="https://github-readme-stats.vercel.app/api?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="" />
   </p>
-
-
+  <p>
+   <img src="https://visitcount.itsvg.in/api?id=parikhitritgithub&icon=8&color=11)](https://visitcount.itsvg.in" alt="" />
+   
+  </p>
+  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=parikhitritgithub&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
