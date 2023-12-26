@@ -17,7 +17,9 @@
 🪧To reach me 
 
 ## 😎About Me:
-<br>I am currently enrolled in the Bachelor of Technology program in Computer Science and Engineering at Assam Kaziranga University. My passion lies in coding, gaming, and continually enhancing my skill set in programming.I'm currently in my fourth semester, I am focused on refining my abilities and undertaking new projects within the realm of software development. Proficient in Data Structures and Algorithms (DSA), I actively engage in problem-solving within this domain.<br><br>In pursuit of expanding my experience, I am seeking collaboration opportunities in web development projects. If given the chance, I am eager to contribute my skills and dedication to the successful execution of such endeavors.
+<p> 
+ I am currently enrolled in the Bachelor of Technology program in Computer Science and Engineering at Assam Kaziranga University. My passion lies in coding, gaming, and continually enhancing my skill set in programming.I'm currently in my fourth semester, I am focused on refining my abilities and undertaking new projects within the realm of software development. Proficient in Data Structures and Algorithms (DSA), I actively engage in problem-solving within this domain.In pursuit of expanding my experience, I am seeking collaboration opportunities in web development projects. If given the chance, I am eager to contribute my skills and dedication to the successful execution of such endeavors.
+</p>
 
 ## Connect with Me🫱🏻‍🫲🏻
 
