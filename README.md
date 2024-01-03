@@ -30,7 +30,7 @@
     <a href="https://instagram.com/________parikshit______">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-    <a href="(https://twitter.com/@ParikhitKurmi1)">
+    <a href="https://www.linkedin.com/in/parikhit-kurmi/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
     <a href="https://twitter.com/@ParikhitKurmi1">
