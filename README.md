@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/parikhitritgithub">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,mysql,c,cpp,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,mysql,c,cpp," />
   </a>
   
   <a href="https://github.com/parikhitritgithub">
