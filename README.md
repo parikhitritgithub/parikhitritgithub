@@ -22,8 +22,7 @@
 </p>
 
 ## Connect with Me🫱🏻‍🫲🏻
-
-<p align="center">
+<div align="center">
   <a href="https://discord.gg/https://discord.com/invite/bU8juQGa">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
@@ -36,37 +35,26 @@
     <a href="https://twitter.com/@ParikhitKurmi1">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-</p>
-
+  </div>
+  
 ## Tech Stack 🦾
-
 
 <p align="center">
   <a href="https://github.com/parikhitritgithub">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,mysql,c,cpp," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,mysql,c,cpp,vscode,github,git,replit,figma," />
   </a>
+  </p>
   
-  <a href="https://github.com/parikhitritgithub">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,replit,figma," />
-  </a>
-</p>
-
-
 ## Profile Stats
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikhitritgithub&theme=radical&hide_border=false" alt="" />
  </p>
-   <p>
-  <img  align="right=10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="" />
-  <img align="left=10%" src="https://github-readme-stats.vercel.app/api?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="" />
+   <p align= "center">
+  <img  align="right=10%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="" />
+  <img align="left=10%" height="180px" src="https://github-readme-stats.vercel.app/api?username=parikhitritgithub&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="" />
   </p>
-  <p>
-   <img src="https://visitcount.itsvg.in/api?id=parikhitritgithub&icon=8&color=11)](https://visitcount.itsvg.in" alt="" />
-   
-  </p>
-    <p align="center">
-       <img src="https://github-contributor-stats.vercel.app/api?username=parikhitritgithub&limit=5&theme=radical&combine_all_yearly_contributions=true" alt=""/>
-     </p>
+
+
 
   
 ## 🏆 GitHub Trophies
