@@ -1,4 +1,6 @@
-
+<div>
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+</div>
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FFFF&center=true&width=435&lines=Hello%2C+I'm+Parikhit+Kurmi" alt="Typing SVG" />
 </p>
