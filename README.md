@@ -2,9 +2,12 @@
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </div>
 <br><br>
-<p align="center">
+<div align="center" gap="10">
+ <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FFFF&center=true&width=435&lines=Hello%2C+I'm+Parikhit+Kurmi" alt="Typing SVG" />
-</p>
+ <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150">
+ </div>
+
 
 <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my Github Profile</h3>
 <div align="center">
