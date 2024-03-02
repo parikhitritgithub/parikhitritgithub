@@ -35,7 +35,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-
+<div>
 
 - 👨‍🎓I'm currently  pursuing Bachelor of technology (CSE) @ AKU 🏫 
 
@@ -43,9 +43,11 @@
 
 - 🙇I'm currently learning  Data structures and algorithms , web development and open-source 
 
-- 🙆I'm looking to collaborate on web-development projects
+- 🙆I'm looking to collaborate on web-development projects 
 
 🪧To reach me 
+ <img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="160" />
+</div>
 
 ## 😎About Me:
 <p> 
@@ -79,7 +81,7 @@
 ## Profile Stats
 
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="600" height="380>
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b"  width="700" height="350>
 <br><br>
 
  
