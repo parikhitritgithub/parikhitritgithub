@@ -90,7 +90,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
  <div>
  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=dracula&hide_border=true" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikhitritgithub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=dracula&hide_border=true" alt="" />
  </p>
    <p align= "center">
   <img  align="right=10%" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=dracula" alt="" />
