@@ -60,10 +60,10 @@
 <b>*Connect with Me*:</b>
 <div align="center">
    &nbsp; 
-   <a href="https://www.instagram.com/oldcat.ash" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/parikhit-kurmi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="https://discord.com/users/1122382759990657044" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-   <a href="https://www.instagram.com/oldcat.ash" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-   <a href="https://www.instagram.com/oldcat.ash" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+   <a href="https://www.instagram.com/________parikshit______/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+   <a href="https://twitter.com/ParikhitKurmi1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
    <a href="https://github.com/parikhitritgithub"><img width ="%" src="https://komarev.com/ghpvc/?username=parikhitritgithub&style=for-the-badge&color=blue"></a>
    
   </div>
