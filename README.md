@@ -37,13 +37,13 @@
 </div>
 <div>
 
-- 👨‍🎓I'm currently  pursuing Bachelor of technology (CSE) @ AKU 🏫 
+  &nbsp;&#10022; 👨‍🎓I'm currently  pursuing Bachelor of technology (CSE) @ AKU 🏫 
 
-- 💁Learning has no limits , 🙋 so I always try to learn new thing
+  &nbsp;&#10022; 💁Learning has no limits , 🙋 so I always try to learn new thing
 
-- 🙇I'm currently learning  Data structures and algorithms , web development and open-source 
+  &nbsp;&#10022; 🙇I'm currently learning  Data structures and algorithms , web development and open-source 
 
-- 🙆I'm looking to collaborate on web-development projects 
+  &nbsp;&#10022; 🙆I'm looking to collaborate on web-development projects 
 
 🪧To reach me 
  <img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="160" />
