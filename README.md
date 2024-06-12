@@ -40,7 +40,7 @@
   <img src="./assets/haruhiro.png"  align="left">
   <p align="right">
 
-  &nbsp;&#10022; 👨‍🎓I'm currently  pursuing Bachelor of technology (CSE) @ AKU 🏫 
+  &nbsp;&#10022; 👨‍🎓I'm currently  pursuing Bachelor of technology (CSE) @ AKU 🏫
 
   &nbsp;&#10022; 💁Learning has no limits , 🙋 so I always try to learn new thing
 
